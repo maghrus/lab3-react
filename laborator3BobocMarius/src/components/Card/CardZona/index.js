@@ -1,0 +1,1 @@
+export {CardZona} from "./CardZona"

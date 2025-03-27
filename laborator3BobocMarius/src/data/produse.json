@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "image": "/src/assets/superOferte/adidasi.png",
+        "title": "Adidași Puma, sortiment",
+        "pretReducere": "699.00 lei",
+        "pretVechi": "899.00 lei",
+        "zona": "Zona Vestimentație"
+
+    },
+    {
+        "id": 2,
+        "image": "/src/assets/superOferte/boxe.png",
+        "title": "Boxe Sven 250",
+        "pretReducere": "250.00 lei",
+        "pretVechi": "389.00 lei",
+        "zona": "Zona Electronice"
+    },
+    {
+        "id": 3,
+        "image": "/src/assets/superOferte/casti.png",
+        "title": "Căști Sven AP124",
+        "pretReducere": "299.00 lei",
+        "pretVechi": "439.00 lei",
+        "zona": "Zona Electronice"
+    },
+    {
+        "id": 4,
+        "image": "/src/assets/superOferte/fierbator.jpg",
+        "title": "Fierbător Zimmer",
+        "pretReducere": "400.00 lei",
+        "pretVechi": "550.00 lei",
+        "zona": "Zona Electrocasnice"
+    },
+    {
+        "id": 5,
+        "image": "/src/assets/superOferte/banane.png",
+        "title": "Banane, Columbia",
+        "pretReducere": "7.50 lei/kg",
+        "pretVechi": "12.90 lei/kg",
+        "zona": "Zona Fructe și Legume"
+    },
+    {
+        "id": 6,
+        "image": "/src/assets/superOferte/castraveti.png",
+        "title": "Castraveți, Moldova",
+        "pretReducere": "3.50 lei/kg",
+        "pretVechi": "4.25 lei/kg",
+        "zona": "Zona Fructe și Legume"
+    },
+    {
+        "id": 7,
+        "image": "/src/assets/superOferte/rodie.jpeg",
+        "title": "Rodie, Turcia",
+        "pretReducere": "31.00 lei/kg",
+        "pretVechi": "42.75 lei/kg",
+        "zona": "Zona Fructe și Legume"
+    },
+    {
+        "id": 8,
+        "image": "/src/assets/superOferte/rosii.jpg",
+        "title": "Roșii, Turcia",
+        "pretReducere": "5.00 lei/kg",
+        "pretVechi": "7.50 lei/kg",
+        "zona": "Zona Fructe și Legume"
+    },
+    {
+        "id": 9,
+        "image": "/src/assets/superOferte/toaster.png",
+        "title": "Toaster Zimmer",
+        "pretReducere": "449.00 lei",
+        "pretVechi": "569.00 lei",
+        "zona": "Zona Electrocasnice"
+    },
+    {
+        "id": 10,
+        "image": "/src/assets/superOferte/tricou.png",
+        "title": "Tricou Nike, asortiment",
+        "pretReducere": "199.00 lei",
+        "pretVechi": "290.00 lei",
+        "zona": "Zona Vestimentație"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "image": "/src/assets/magazine/azart.jpg",
+        "location": "Centru Comercial",
+        "title": "AZART",
+        "openHours": "08:00 - 21:00",
+        "openDays": "L M M J V S D"
+    },
+    {
+        "id": 2,
+        "image": "/src/assets/magazine/carturesti.png",
+        "location": "Centru Comercial",
+        "title": "Cărturești",
+        "openHours": "08:00 - 21:00",
+        "openDays": "L M M J V S D"
+    },
+    {
+        "id": 3,
+        "image": "/src/assets/magazine/darwin.png",
+        "location": "Centru Comercial",
+        "title": "Darwin",
+        "openHours": "08:00 - 21:00",
+        "openDays": "L M M J V S D"
+    },
+    {
+        "id": 4,
+        "image": "/src/assets/magazine/jysk.png",
+        "location": "Centru Comercial",
+        "title": "JYSK",
+        "openHours": "08:00 - 20:00",
+        "openDays": "L M M J V S D"
+    },
+    {
+        "id": 5,
+        "image": "/src/assets/magazine/kfc.png",
+        "location": "Centru Comercial",
+        "title": "KFC",
+        "openHours": "09:00 - 20:00",
+        "openDays": "L M M J V S D"
+    },
+    {
+        "id": 6,
+        "image": "/src/assets/magazine/linella.png",
+        "location": "Centru Comercial",
+        "title": "Linella",
+        "openHours": "07:00 - 23:00",
+        "openDays": "L M M J V S D"
+    },
+    {
+        "id": 7,
+        "image": "/src/assets/magazine/mcdonalds.png",
+        "location": "Centru Comercial",
+        "title": "McDonald's",
+        "openHours": "09:00 - 23:00",
+        "openDays": "L M M J V S D"
+    },
+    {
+        "id": 8,
+        "image": "/src/assets/magazine/orange.png",
+        "location": "Centru Comercial",
+        "title": "Orange",
+        "openHours": "08:00 - 21:00",
+        "openDays": "L M M J V S D"
+    },
+    {
+        "id": 9,
+        "image": "/src/assets/magazine/puma.jpg",
+        "location": "Centru Comercial",
+        "title": "Puma",
+        "openHours": "08:00 - 22:00",
+        "openDays": "L M M J V S D"
+    },
+    {
+        "id": 10,
+        "image": "/src/assets/magazine/waikiki.jpg",
+        "location": "Centru Comercial",
+        "title": "LC Waikiki",
+        "openHours": "08:00 - 22:00",
+        "openDays": "L M M J V S D"
+    }
+]

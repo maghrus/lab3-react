@@ -1,0 +1,45 @@
+.magazin {
+    display: flex;
+    align-items: center;
+    background-color: #ECF4E6;
+    border-radius: 12px;
+    padding: 15px;
+    max-width: 100%;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+    border: 3px solid white;
+}
+
+
+.imagine {
+    width: 60px;
+    height: 60px;
+    border-radius: 8px;
+    margin-right: 15px;
+    object-fit: contain;
+    flex-shrink: 0;
+    background-color: white;
+    padding: 5px;
+}
+
+.detalii {
+    display: flex;
+    flex-direction: column;
+}
+
+.nume {
+    font-size: 18px;
+    font-weight: bold;
+    color: #5A7028;
+}
+
+.orar {
+    font-size: 14px;
+    font-weight: bold;
+    color: #2E4017;
+}
+
+.days {
+    font-size: 12px;
+    color: #5A7028;
+    letter-spacing: 1px;
+}

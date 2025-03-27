@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "image": "/src/assets/conducereEchipa/ciugureanu.jpeg",
+        "name": "Alexandru Ciugureanu",
+        "role": "Director interimar"
+    },
+    {
+        "id": 2,
+        "image": "/src/assets/conducereEchipa/inna.jpg",
+        "name": "Inna Gusarenco",
+        "role": "Director adjunct"
+    },
+    {
+        "id": 3,
+        "image": "/src/assets/conducereEchipa/cebanea.jpeg",
+        "name": "Iv Ceban",
+        "role": "Coordonator"
+    },
+    {
+        "id": 4,
+        "image": "/src/assets/conducereEchipa/andrusa.jpg",
+        "name": "Bolocan Andrei",
+        "role": "Marketing & PR"
+    },
+    {
+        "id": 5,
+        "image": "/src/assets/conducereEchipa/natasa.jpg",
+        "name": "Morari Natalia",
+        "role": "Comunicatoare"
+    }
+]

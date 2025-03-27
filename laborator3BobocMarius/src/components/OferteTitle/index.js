@@ -1,0 +1,1 @@
+export { OferteTitle } from "./oferteTitle";

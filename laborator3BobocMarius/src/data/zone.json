@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Electrocasnice",
+        "image": "/src/assets/zone/electrocasnice.jpg",
+        "description": "Găsește o gamă variată de electrocasnice moderne și eficiente, potrivite pentru orice nevoie. De la aparate de bucătărie și electrocasnice mici, până la soluții de ultimă generație pentru casă, fiecare produs este ales pentru a îmbina funcționalitatea cu designul de calitate."
+    },
+    {
+        "id": 2,
+        "title": "Electronice și Unelte",
+        "image": "/src/assets/zone/electronice.jpg",
+        "description": "Un spațiu dedicat pasionaților de tehnologie și bricolaj, cu o selecție de electronice de încredere și unelte robuste. Indiferent dacă ești în căutarea unui gadget util sau a echipamentelor necesare pentru proiectele tale, aici găsești soluții practice și durabile."
+    },
+    {
+        "id": 3,
+        "title": "Fructe și Legume",
+        "image": "/src/assets/zone/fructe.jpg",
+        "description": "Aici găsești o selecție proaspătă și diversificată de produse locale și de sezon, mere suculente, struguri aromați, roșii coapte, cartofi, verdețuri și multe altele, toate atent selectate pentru calitatea lor. Este locul ideal pentru a-ți aproviziona cămara cu produse naturale și sănătoase, direct de la producători."
+    },
+    {
+        "id": 4,
+        "title": "Vestimentație",
+        "image": "/src/assets/zone/haine.jpg",
+        "description": "Explorează o gamă variată de articole de vestimentație, de la piese casual și confortabile până la ținute elegante. Produsele se remarcă prin stil, calitate și atenție la detalii, oferindu-ți opțiuni pentru orice ocazie."
+    },
+    {
+        "id": 5,
+        "title": "Meșteșuguri",
+        "image": "/src/assets/zone/mestesuguri.jpg",
+        "description": "Descoperă o colecție unică de produse artizanale, lucrate cu măiestrie și atenție la detalii. Obiecte decorative, accesorii tradiționale și suveniruri autentice reflectă tradițiile și creativitatea meșteșugarilor locali, oferind un farmec aparte fiecărui articol."
+    },
+    {
+        "id": 6,
+        "title": "Mixt & All",
+        "image": "/src/assets/zone/mixt.jpg",
+        "description": "Un loc vibrant unde găsești de toate pentru toți – de la produse alimentare și articole de uz casnic, până la accesorii, unelte și suveniruri. Diversitatea ofertelor asigură soluții practice și surprize pentru fiecare vizitator."
+    },
+    {
+        "id": 7,
+        "title": "Spațiu Comercial",
+        "image": "/src/assets/zone/spatiuComercial.jpg",
+        "description": "Un spațiu comercial modern, ideal pentru cumpărături variate, de la produse de zi cu zi la articole speciale. Atmosfera primitoare și organizarea bine gândită creează o experiență plăcută pentru toți vizitatorii."
+    },
+    {
+        "id": 8,
+        "title": "Parcare",
+        "image": "/src/assets/zone/parcare.jpg",
+        "description": "Parcarea este o zonă aparte și ea, unde îți poți lăsă mașina în siguranță, cât timp îți vei face cumpărăturile, fiind o zonă supravegheată video."
+    }
+]

@@ -1,0 +1,51 @@
+.footer {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-top: 2px solid #ddd;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    margin: 0 auto;
+}
+
+.section{
+    padding: 2px 8px;
+}
+
+.socialIcons {
+    display: flex;
+    gap: 10px;
+}
+
+.zile{
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.ore{
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.info1{
+    margin-top: 8px;
+}
+
+.socialIcons img {
+    width: 24px;
+    height: 24px;
+    cursor: pointer;
+    transition: all ease-in-out 0.4s;
+}
+
+.socialIcons img:hover {
+    transform: scale(1.1);
+}
+
+.titluDetaliu{
+    font-weight: 600;
+    font-size: 18px;
+}
